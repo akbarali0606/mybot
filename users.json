@@ -1,0 +1,33 @@
+[
+  {
+    "id": 907402803,
+    "username": "Akbaral1",
+    "balance": 0,
+    "referred_by": null,
+    "card_number": null,
+    "withdraw_requests": [
+      {
+        "amount": 90999,
+        "card": "8600123456789012",
+        "timestamp": "2025-05-29T09:38:12.870Z",
+        "status": "pending"
+      },
+      {
+        "amount": 1000000,
+        "card": "8600123456789012",
+        "timestamp": "2025-05-29T09:51:58.955Z",
+        "status": "pending"
+      }
+    ],
+    "current_action": null
+  },
+  {
+    "id": 7704737146,
+    "username": "Ruxshonaa_7",
+    "balance": 0,
+    "referred_by": null,
+    "card_number": null,
+    "withdraw_requests": [],
+    "current_action": null
+  }
+]
